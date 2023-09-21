@@ -99,7 +99,6 @@ Feel free to add your own page(s) by sending a PR.
 <a href="https://wang-boyu.github.io/" target="_blank">★</a>
 <a href="https://bajinsheng.github.io/" target="_blank">★</a>
 <a href="https://www.silviofanzon.com/" target="_blank">★</a>
-<a href="https://mbarbetti.github.io/" target="_blank">★</a>
 </td>
 </tr>
 <tr>
@@ -134,8 +133,7 @@ HAMLETS (NeurIPS: <a href="https://hamlets-workshop.github.io/" target="_blank">
 ICBINB (NeurIPS: <a href="https://i-cant-believe-its-not-better.github.io/" target="_blank">2020</a>, <a href="https://i-cant-believe-its-not-better.github.io/neurips2021/" target="_blank">2021</a>) <br>
 Neural Compression (ICLR: <a href="https://neuralcompression.github.io/" target="_blank">2021</a>) <br>
 Score Based Methods (NeurIPS: <a href="https://score-based-methods-workshop.github.io/" target="_blank">2022</a>)<br>
-Images2Symbols (CogSci: <a href="https://images2symbols.github.io/" target="_blank"> 2022</a>)<br>
-Beyond Vision: Physics meets AI (ICIAP: <a href="https://physicsmeetsai.github.io/beyond-vision/" target="_blank">2023</a>)
+Images2Symbols (CogSci: <a href="https://images2symbols.github.io/" target="_blank"> 2022</a>)
 </td>
 </tr>
 </table>
